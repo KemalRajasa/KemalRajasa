@@ -1,5 +1,7 @@
 <h1>Hi, I'm Kemal! <br/><a href="https://github.com/KemalRajasa">Undergraduate Student at Institut Teknologi Sepuluh Nopember</a>
 
+oweipoqwiepoqwieopqipweiqw
+
 <h2>👨‍💻 Mini College Project:</h2>
 
 - <b>Cloud Computing</b>
@@ -7,6 +9,8 @@
 - <b>Simple app project</b>
   - [Websocket Chatapp with Deno](https://github.com/KemalRajasa/ncc-project-chat-app-websocket)<b>
   - [Websocket Based Multiplayer Game](https://github.com/KemalRajasa/MIni-Websocket-Game-Pemrograman-Jaringan)<b>
+- <b>Machine Learning:</b>
+  - currently private<b>
 
 <h2>👨‍💻 Leetcode Journey:</h2>
 
