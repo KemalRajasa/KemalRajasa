@@ -1,6 +1,7 @@
 <h1>Hi, I'm Kemal! <br/><a href="https://github.com/KemalRajasa">Undergraduate Student at Institut Teknologi Sepuluh Nopember</a>
 
-oweipoqwiepoqwieopqipweiqw
+<h2>🌱 About me</h2>
+  <b>An undergraduate student at Institut Teknologi Sepuluh Nopember, pursuing a Bachelor's Degree in Informatics Engineering. I have a strong interest in networking and cybersecurity, particularly in analyzing potential risks and securing network infrastructures. I am actively seeking opportunities to enhance my skills through professional cybersecurity courses and certifications.</b>
 
 <h2>👨‍💻 Mini College Project:</h2>
 
