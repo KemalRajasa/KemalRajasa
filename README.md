@@ -2,19 +2,20 @@
 
 <h2>👨‍💻 Mini College Project:</h2>
 
-- <b>Cloud Hosting with Azure</b>
-  - [Praciting DS & Algos in Python](https://github.com/KemalRajasa/Hosting-CTF-using-CTFd-and-Microsoft-Azure)
-- <b>Websocket Chat App with Deno</b>
-  - [Image Analysis Middleware](https://github.com/KemalRajasa/ncc-project-chat-app-websocket) <b>
+- <b>Cloud Computing</b>
+  - [Cloud Hosting with Azure](https://github.com/KemalRajasa/Hosting-CTF-using-CTFd-and-Microsoft-Azure)
+- <b>Simple app project</b>
+  - [Websocket Chatapp with Deno](https://github.com/KemalRajasa/ncc-project-chat-app-websocket)<b>
+  - [Websocket Based Multiplayer Game](https://github.com/KemalRajasa/MIni-Websocket-Game-Pemrograman-Jaringan)<b>
 
 <h2>👨‍💻 Leetcode Journey:</h2>
 
--  <b>Problem Solved:</b>
-  - <b>currently private</b>
-
+- <b>Problem Solved:</b>
+  - currently private<b>
+  
 <h2>👨‍💻 Cybersecurity Journey:</h2>
 
--  <b>Google Cybersecurity Certfication by Coursera</b>
+- <b>Google Cybersecurity Certfication by Coursera</b>
   - <b>currently private</b>
 
 <h2> 🤳 Connect with me:</h2>
