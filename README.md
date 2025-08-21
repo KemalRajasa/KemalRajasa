@@ -21,7 +21,7 @@
 <h2>👨‍💻 Cybersecurity Journey:</h2>
 
 - <b>Google Cybersecurity Certfication by Coursera</b>
-  - <b>currently private</b>
+  - <b>[Course by coursera](https://github.com/KemalRajasa/google-cybersecurity-certification/tree/main)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
