@@ -24,7 +24,7 @@
   - <b>[Course by coursera](https://github.com/KemalRajasa/google-cybersecurity-certification/tree/main)</b>
   
 - <b>CTF Practice</b>
-  - <b>[picoCTF](https://github.com/KemalRajasa/picoCTF-practice)</b>
+  - <b>[picoCTF](https://github.com/KemalRajasa/picoCTF-writeup)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
