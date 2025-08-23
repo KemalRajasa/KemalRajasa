@@ -20,13 +20,11 @@
   
 <h2>👨‍💻 Cybersecurity Journey:</h2>
 
-= 
-
 - <b>Google Cybersecurity Certfication by Coursera</b>
   - <b>[Course by coursera](https://github.com/KemalRajasa/google-cybersecurity-certification/tree/main)</b>
   
 - <b>CTF Practice</b>
-  - <b>[picoCTF](https://github.com/KemalRajasa/picoCTF))</b>
+  - <b>[picoCTF](https://github.com/KemalRajasa/picoCTF)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
